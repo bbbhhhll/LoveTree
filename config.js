@@ -1,4 +1,4 @@
-// 霸都丶傲天 2019/7/9  https://Github.com/AJLoveChina
+
 var config = {
     
     lines: [
